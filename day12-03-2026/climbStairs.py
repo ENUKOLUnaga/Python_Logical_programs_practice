@@ -1,4 +1,4 @@
-def climbStairs(self, n):
+def climbStairs(n):
     if n<=2:
         return n
     a,b=1,2

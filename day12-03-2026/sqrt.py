@@ -1,4 +1,4 @@
-def mySqrt(self, x):
+def mySqrt(x):
     n=x
     while n*n>x:
         n=(n+x//n)//2 

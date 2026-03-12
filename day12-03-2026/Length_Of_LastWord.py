@@ -1,3 +1,3 @@
-def lengthOfLastWord(self, s):
+def lengthOfLastWord(s):
     length=len(s.split()[-1])
     return length

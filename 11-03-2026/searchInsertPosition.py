@@ -1,4 +1,4 @@
-def searchInsert(self, nums, target):
+def searchInsert(nums, target):
         left = 0
         right = len(nums) - 1
 

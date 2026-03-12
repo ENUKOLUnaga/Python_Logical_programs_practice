@@ -1,4 +1,4 @@
-def isValid(self, s):
+def isValid(s):
     stack=[]
     mapping={')':'(',']':'[','}':'{'}
     for char in s:

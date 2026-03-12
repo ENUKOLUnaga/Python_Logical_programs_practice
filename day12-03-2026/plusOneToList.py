@@ -1,4 +1,4 @@
-def plusOne(self, digits):
+def plusOne(digits):
     num=0
     for d in digits:
         num=num*10+d

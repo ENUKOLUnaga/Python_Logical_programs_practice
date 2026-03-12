@@ -1,4 +1,4 @@
-def strStr(self, haystack, needle):
+def strStr(haystack, needle):
     n=len(haystack)
     m=len(needle)
     for i in range(n-m+1):
