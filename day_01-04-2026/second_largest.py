@@ -14,3 +14,4 @@ def second_smallest(arr):
 
 a = list(map(int, input("Enter numbers separated by space: ").split()))
 print("second smallest element in a Array:",second_smallest(a))
+

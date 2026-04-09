@@ -7,6 +7,7 @@ def printOrder(arr,n) :
         i=i+1 
         
 a = list(map(int, input("Enter numbers separated by space: ").split()))
+
 n=len(a)
 printOrder(a,n)
 
