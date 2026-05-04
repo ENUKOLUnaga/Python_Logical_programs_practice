@@ -9,4 +9,4 @@ def remove_duplicates(str):
 
 str=input("enter a string: ")
 result=remove_duplicates(str)
-print("first non repeating characte: ",result)
+print("first non repeating character: ",result)
